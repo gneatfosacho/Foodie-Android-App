@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="animated-edit-text-1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/68b695b3a248109ebc627cfc994b81e8afb7b113/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/68b695b3a248109ebc627cfc994b81e8afb7b113/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alimuzaffar.lib/animated-edit-text/1.1/c1e958f42bb68d16cfa83f1a96bbbee8dacc2bc7/animated-edit-text-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

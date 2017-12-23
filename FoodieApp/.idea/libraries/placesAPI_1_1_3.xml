@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="placesAPI-1.1.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/68df90abda0c795626b53427213b81e330250cd1/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/68df90abda0c795626b53427213b81e330250cd1/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/noman.placesapi/placesAPI/1.1.3/5471a4a093c9b8aabccc81f2215f67176ce13d67/placesAPI-1.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
